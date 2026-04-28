@@ -23,6 +23,12 @@
   ],
   "SubGroups": [
     {
+      "Id": 1,
+      "Name": null,
+      "Group_Id": 1,
+      "ShortName": null
+    },
+    {
       "Id": 2,
       "Name": "підгрупа 2Б(а)",
       "Group_Id": 2,
@@ -62,1683 +68,2446 @@
   "Lessons": [
     {
       "Id": 1,
-      "RoomNames": ["106"],
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 1,
       "Day_Id": 1,
       "Subject_Id": 1
     },
     {
       "Id": 4,
-      "RoomNames": ["106"],
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 2,
       "Day_Id": 1,
       "Subject_Id": 1
     },
     {
-      "Id": 8,
-      "RoomNames": ["106"],
+      "Id": 9,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 3,
       "Day_Id": 1,
       "Subject_Id": 2
     },
     {
-      "Id": 13,
-      "RoomNames": ["106"],
+      "Id": 15,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 4,
       "Day_Id": 1,
       "Subject_Id": 2
     },
     {
-      "Id": 35,
-      "RoomNames": ["103"],
+      "Id": 43,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 3,
       "Day_Id": 2,
       "Subject_Id": 3
     },
     {
-      "Id": 37,
-      "RoomNames": ["313"],
+      "Id": 45,
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 4,
       "Day_Id": 2,
       "Subject_Id": 4
     },
     {
-      "Id": 41,
-      "RoomNames": ["103"],
+      "Id": 50,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 5,
       "Day_Id": 2,
       "Subject_Id": 5
     },
     {
-      "Id": 46,
-      "RoomNames": ["103"],
+      "Id": 55,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 6,
       "Day_Id": 2,
       "Subject_Id": 5
     },
     {
-      "Id": 60,
-      "RoomNames": ["306"],
+      "Id": 73,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 1,
       "Day_Id": 3,
       "Subject_Id": 6
     },
     {
-      "Id": 64,
-      "RoomNames": ["306"],
+      "Id": 77,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 2,
       "Day_Id": 3,
       "Subject_Id": 6
     },
     {
-      "Id": 69,
-      "RoomNames": ["106"],
+      "Id": 82,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 3,
       "Day_Id": 3,
       "Subject_Id": 7
     },
     {
-      "Id": 75,
-      "RoomNames": ["106"],
+      "Id": 89,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 4,
       "Day_Id": 3,
       "Subject_Id": 7
-    },
-    {
-      "Id": 79,
-      "RoomNames": ["306"],
-      "Group_Id": 1,
-      "Subgroup_Id": [null],
-      "Order": 5,
-      "Day_Id": 3,
-      "Subject_Id": 8
-    },
-    {
-      "Id": 84,
-      "RoomNames": ["306"],
-      "Group_Id": 1,
-      "Subgroup_Id": [null],
-      "Order": 6,
-      "Day_Id": 3,
-      "Subject_Id": 8
     },
     {
       "Id": 93,
-      "RoomNames": ["312"],
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
+      "Order": 5,
+      "Day_Id": 3,
+      "Subject_Id": 8
+    },
+    {
+      "Id": 99,
+      "RoomNames": [
+        "306"
+      ],
+      "Group_Id": 1,
+      "Subgroup_Id": [
+        1
+      ],
+      "Order": 6,
+      "Day_Id": 3,
+      "Subject_Id": 8
+    },
+    {
+      "Id": 109,
+      "RoomNames": [
+        "312"
+      ],
+      "Group_Id": 1,
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 1,
       "Day_Id": 4,
       "Subject_Id": 9
     },
     {
-      "Id": 94,
-      "RoomNames": ["312"],
+      "Id": 110,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 2,
       "Day_Id": 4,
       "Subject_Id": 9
     },
     {
-      "Id": 96,
-      "RoomNames": ["145"],
+      "Id": 112,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 3,
       "Day_Id": 4,
       "Subject_Id": 10
     },
     {
-      "Id": 99,
-      "RoomNames": ["145"],
+      "Id": 116,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 4,
       "Day_Id": 4,
       "Subject_Id": 10
     },
     {
-      "Id": 103,
-      "RoomNames": ["312"],
+      "Id": 121,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 5,
       "Day_Id": 4,
       "Subject_Id": 11
     },
     {
-      "Id": 106,
-      "RoomNames": ["312"],
+      "Id": 126,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 6,
       "Day_Id": 4,
       "Subject_Id": 11
     },
     {
-      "Id": 112,
-      "RoomNames": ["312"],
+      "Id": 132,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 7,
       "Day_Id": 4,
       "Subject_Id": 12
     },
     {
-      "Id": 119,
-      "RoomNames": ["314"],
+      "Id": 139,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 1,
       "Day_Id": 5,
       "Subject_Id": 13
     },
     {
-      "Id": 121,
-      "RoomNames": ["314"],
+      "Id": 141,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 2,
       "Day_Id": 5,
       "Subject_Id": 13
     },
     {
-      "Id": 127,
-      "RoomNames": ["145"],
+      "Id": 147,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 4,
       "Day_Id": 5,
       "Subject_Id": 14
     },
     {
-      "Id": 132,
-      "RoomNames": ["145"],
+      "Id": 152,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 5,
       "Day_Id": 5,
       "Subject_Id": 14
     },
     {
-      "Id": 144,
-      "RoomNames": ["306"],
+      "Id": 166,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 3,
       "Day_Id": 6,
       "Subject_Id": 15
     },
     {
-      "Id": 148,
-      "RoomNames": ["306"],
+      "Id": 171,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 1,
-      "Subgroup_Id": [null],
+      "Subgroup_Id": [
+        1
+      ],
       "Order": 4,
       "Day_Id": 6,
       "Subject_Id": 15
     },
     {
       "Id": 2,
-      "RoomNames": ["313"],
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 1,
       "Day_Id": 1,
       "Subject_Id": 16
     },
     {
       "Id": 5,
-      "RoomNames": ["314"],
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 2,
       "Day_Id": 1,
       "Subject_Id": 16
     },
     {
-      "Id": 9,
-      "RoomNames": ["113"],
+      "Id": 10,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 3,
       "Day_Id": 1,
       "Subject_Id": 8
     },
     {
-      "Id": 14,
-      "RoomNames": ["113"],
+      "Id": 16,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 4,
       "Day_Id": 1,
       "Subject_Id": 8
     },
     {
-      "Id": 18,
-      "RoomNames": ["314"],
+      "Id": 21,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 5,
       "Day_Id": 1,
       "Subject_Id": 17
     },
     {
-      "Id": 23,
-      "RoomNames": ["314"],
+      "Id": 27,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 6,
       "Day_Id": 1,
       "Subject_Id": 17
     },
     {
-      "Id": 47,
-      "RoomNames": null,
+      "Id": 56,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 6,
       "Day_Id": 2,
       "Subject_Id": 12
     },
     {
-      "Id": 51,
-      "RoomNames": null,
+      "Id": 61,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 7,
       "Day_Id": 2,
       "Subject_Id": 18
     },
     {
-      "Id": 53,
-      "RoomNames": null,
+      "Id": 64,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 8,
       "Day_Id": 2,
       "Subject_Id": 9
     },
     {
-      "Id": 55,
-      "RoomNames": null,
+      "Id": 67,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 9,
       "Day_Id": 2,
       "Subject_Id": 9
     },
     {
-      "Id": 56,
-      "RoomNames": ["113"],
+      "Id": 69,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 10,
       "Day_Id": 2,
       "Subject_Id": 19
     },
     {
-      "Id": 58,
-      "RoomNames": ["113"],
+      "Id": 71,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 11,
       "Day_Id": 2,
       "Subject_Id": 20
     },
     {
-      "Id": 61,
-      "RoomNames": ["113"],
+      "Id": 74,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 1,
       "Day_Id": 3,
       "Subject_Id": 8
     },
     {
-      "Id": 65,
-      "RoomNames": ["113"],
+      "Id": 78,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 2,
       "Day_Id": 3,
       "Subject_Id": 8
     },
     {
-      "Id": 70,
-      "RoomNames": null,
+      "Id": 83,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 3,
       "Day_Id": 3,
       "Subject_Id": 21
     },
     {
-      "Id": 80,
-      "RoomNames": ["312"],
+      "Id": 94,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 5,
       "Day_Id": 3,
       "Subject_Id": 22
     },
     {
-      "Id": 85,
-      "RoomNames": ["145"],
+      "Id": 100,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 6,
       "Day_Id": 3,
       "Subject_Id": 23
     },
     {
-      "Id": 89,
-      "RoomNames": ["112"],
+      "Id": 105,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 7,
       "Day_Id": 3,
       "Subject_Id": 24
     },
     {
-      "Id": 91,
-      "RoomNames": ["112"],
+      "Id": 107,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 8,
       "Day_Id": 3,
       "Subject_Id": 24
     },
     {
-      "Id": 97,
-      "RoomNames": null,
+      "Id": 113,
+      "RoomNames": [
+        "313",
+        "111"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 3,
       "Day_Id": 4,
       "Subject_Id": 25
     },
     {
-      "Id": 100,
-      "RoomNames": null,
+      "Id": 117,
+      "RoomNames": [
+        "313",
+        "111"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 4,
       "Day_Id": 4,
       "Subject_Id": 25
     },
     {
-      "Id": 122,
-      "RoomNames": ["313"],
+      "Id": 142,
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 2,
       "Day_Id": 5,
       "Subject_Id": 19
     },
     {
-      "Id": 124,
-      "RoomNames": ["313"],
+      "Id": 144,
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 3,
       "Day_Id": 5,
       "Subject_Id": 19
     },
     {
-      "Id": 128,
-      "RoomNames": ["313"],
+      "Id": 148,
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 4,
       "Day_Id": 5,
       "Subject_Id": 26
     },
     {
-      "Id": 133,
-      "RoomNames": ["312"],
+      "Id": 153,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 5,
       "Day_Id": 5,
       "Subject_Id": 22
     },
     {
-      "Id": 137,
-      "RoomNames": ["312"],
+      "Id": 157,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 6,
       "Day_Id": 5,
       "Subject_Id": 22
     },
     {
-      "Id": 140,
-      "RoomNames": ["230"],
+      "Id": 160,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 7,
       "Day_Id": 5,
       "Subject_Id": 27
     },
     {
-      "Id": 149,
-      "RoomNames": null,
+      "Id": 172,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 4,
       "Day_Id": 6,
       "Subject_Id": 3
     },
     {
-      "Id": 151,
-      "RoomNames": ["104", "1", "104", "1"],
+      "Id": 175,
+      "RoomNames": [
+        "104",
+        "1",
+        "104",
+        "1"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 5,
       "Day_Id": 6,
       "Subject_Id": 28
     },
     {
-      "Id": 155,
-      "RoomNames": ["104", "1", "104", "1"],
+      "Id": 180,
+      "RoomNames": [
+        "104",
+        "1",
+        "104",
+        "1"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 6,
       "Day_Id": 6,
       "Subject_Id": 28
     },
     {
-      "Id": 158,
-      "RoomNames": ["104", "1", "104", "1"],
+      "Id": 183,
+      "RoomNames": [
+        "104",
+        "1",
+        "104",
+        "1"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 7,
       "Day_Id": 6,
       "Subject_Id": 28
     },
     {
-      "Id": 161,
-      "RoomNames": ["313"],
+      "Id": 186,
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 8,
       "Day_Id": 6,
       "Subject_Id": 17
     },
     {
-      "Id": 162,
-      "RoomNames": ["313"],
+      "Id": 187,
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2],
+      "Subgroup_Id": [
+        2
+      ],
       "Order": 9,
       "Day_Id": 6,
       "Subject_Id": 17
     },
     {
       "Id": 3,
-      "RoomNames": ["314"],
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 1,
       "Day_Id": 1,
       "Subject_Id": 29
     },
     {
       "Id": 6,
-      "RoomNames": ["313"],
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 2,
       "Day_Id": 1,
       "Subject_Id": 19
     },
     {
-      "Id": 10,
-      "RoomNames": ["306"],
+      "Id": 11,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 3,
       "Day_Id": 1,
       "Subject_Id": 17
     },
     {
-      "Id": 15,
-      "RoomNames": ["306"],
+      "Id": 17,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 4,
       "Day_Id": 1,
       "Subject_Id": 17
     },
     {
-      "Id": 19,
-      "RoomNames": ["145"],
+      "Id": 22,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 5,
       "Day_Id": 1,
       "Subject_Id": 8
     },
     {
-      "Id": 24,
-      "RoomNames": ["145"],
+      "Id": 28,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 6,
       "Day_Id": 1,
       "Subject_Id": 8
     },
     {
-      "Id": 47,
-      "RoomNames": null,
+      "Id": 57,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 6,
       "Day_Id": 2,
       "Subject_Id": 12
     },
     {
-      "Id": 51,
-      "RoomNames": null,
+      "Id": 62,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 7,
       "Day_Id": 2,
       "Subject_Id": 18
     },
     {
-      "Id": 53,
-      "RoomNames": null,
+      "Id": 65,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 8,
       "Day_Id": 2,
       "Subject_Id": 9
     },
     {
-      "Id": 55,
-      "RoomNames": null,
+      "Id": 68,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 9,
       "Day_Id": 2,
       "Subject_Id": 9
     },
     {
-      "Id": 57,
-      "RoomNames": ["112"],
+      "Id": 70,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 10,
       "Day_Id": 2,
       "Subject_Id": 24
     },
     {
-      "Id": 59,
-      "RoomNames": ["112"],
+      "Id": 72,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 11,
       "Day_Id": 2,
       "Subject_Id": 24
     },
     {
-      "Id": 62,
-      "RoomNames": ["230"],
+      "Id": 75,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 1,
       "Day_Id": 3,
       "Subject_Id": 27
     },
     {
-      "Id": 66,
-      "RoomNames": ["230"],
+      "Id": 79,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 2,
       "Day_Id": 3,
       "Subject_Id": 30
     },
     {
-      "Id": 70,
-      "RoomNames": null,
+      "Id": 84,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 3,
       "Day_Id": 3,
       "Subject_Id": 21
     },
     {
-      "Id": 81,
-      "RoomNames": ["113"],
+      "Id": 95,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 5,
       "Day_Id": 3,
       "Subject_Id": 19
     },
     {
-      "Id": 86,
-      "RoomNames": ["113"],
+      "Id": 101,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 6,
       "Day_Id": 3,
       "Subject_Id": 19
     },
     {
-      "Id": 90,
-      "RoomNames": ["113"],
+      "Id": 106,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 7,
       "Day_Id": 3,
       "Subject_Id": 8
     },
     {
-      "Id": 92,
-      "RoomNames": ["113"],
+      "Id": 108,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 8,
       "Day_Id": 3,
       "Subject_Id": 8
     },
     {
-      "Id": 97,
-      "RoomNames": null,
+      "Id": 114,
+      "RoomNames": [
+        "313",
+        "111"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 3,
       "Day_Id": 4,
       "Subject_Id": 25
     },
     {
-      "Id": 100,
-      "RoomNames": null,
+      "Id": 118,
+      "RoomNames": [
+        "313",
+        "111"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 4,
       "Day_Id": 4,
       "Subject_Id": 25
     },
     {
-      "Id": 107,
-      "RoomNames": ["306"],
+      "Id": 127,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 6,
       "Day_Id": 4,
       "Subject_Id": 17
     },
     {
-      "Id": 113,
-      "RoomNames": ["306"],
+      "Id": 133,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 7,
       "Day_Id": 4,
       "Subject_Id": 17
     },
     {
-      "Id": 129,
-      "RoomNames": ["314"],
+      "Id": 149,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 4,
       "Day_Id": 5,
       "Subject_Id": 30
     },
     {
-      "Id": 134,
-      "RoomNames": ["314"],
+      "Id": 154,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 5,
       "Day_Id": 5,
       "Subject_Id": 30
     },
     {
-      "Id": 138,
-      "RoomNames": ["113"],
+      "Id": 158,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 6,
       "Day_Id": 5,
       "Subject_Id": 26
     },
     {
-      "Id": 149,
-      "RoomNames": null,
+      "Id": 173,
+      "RoomNames": [
+        "106"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [2, 3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 4,
       "Day_Id": 6,
       "Subject_Id": 3
     },
     {
-      "Id": 152,
-      "RoomNames": ["230"],
+      "Id": 176,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 5,
       "Day_Id": 6,
       "Subject_Id": 31
     },
     {
-      "Id": 156,
-      "RoomNames": ["230"],
+      "Id": 181,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 6,
       "Day_Id": 6,
       "Subject_Id": 31
     },
     {
-      "Id": 159,
-      "RoomNames": ["230"],
+      "Id": 184,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 2,
-      "Subgroup_Id": [3],
+      "Subgroup_Id": [
+        3
+      ],
       "Order": 7,
       "Day_Id": 6,
       "Subject_Id": 31
     },
     {
       "Id": 7,
-      "RoomNames": null,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 2,
       "Day_Id": 1,
       "Subject_Id": 32
     },
     {
-      "Id": 11,
-      "RoomNames": null,
+      "Id": 12,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 3,
       "Day_Id": 1,
       "Subject_Id": 32
     },
     {
-      "Id": 16,
-      "RoomNames": null,
+      "Id": 18,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 4,
       "Day_Id": 1,
       "Subject_Id": 3
     },
     {
-      "Id": 20,
-      "RoomNames": null,
+      "Id": 23,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 5,
       "Day_Id": 1,
       "Subject_Id": 33
     },
     {
-      "Id": 25,
-      "RoomNames": null,
+      "Id": 29,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 6,
       "Day_Id": 1,
       "Subject_Id": 33
     },
     {
-      "Id": 28,
-      "RoomNames": null,
+      "Id": 33,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 7,
       "Day_Id": 1,
       "Subject_Id": 34
     },
     {
-      "Id": 30,
-      "RoomNames": null,
+      "Id": 37,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 8,
       "Day_Id": 1,
       "Subject_Id": 34
     },
     {
-      "Id": 38,
-      "RoomNames": null,
+      "Id": 46,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 4,
       "Day_Id": 2,
       "Subject_Id": 18
     },
     {
-      "Id": 42,
-      "RoomNames": ["145"],
+      "Id": 51,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 5,
       "Day_Id": 2,
       "Subject_Id": 26
     },
     {
-      "Id": 48,
-      "RoomNames": ["112"],
+      "Id": 58,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 6,
       "Day_Id": 2,
       "Subject_Id": 8
     },
     {
-      "Id": 52,
-      "RoomNames": ["112"],
+      "Id": 63,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 7,
       "Day_Id": 2,
       "Subject_Id": 8
     },
     {
-      "Id": 71,
-      "RoomNames": ["145"],
+      "Id": 85,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 3,
       "Day_Id": 3,
       "Subject_Id": 8
     },
     {
-      "Id": 76,
-      "RoomNames": ["145"],
+      "Id": 90,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 4,
       "Day_Id": 3,
       "Subject_Id": 8
     },
     {
-      "Id": 82,
-      "RoomNames": null,
+      "Id": 96,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 5,
       "Day_Id": 3,
       "Subject_Id": 9
     },
     {
-      "Id": 87,
-      "RoomNames": null,
+      "Id": 102,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 6,
       "Day_Id": 3,
       "Subject_Id": 9
     },
     {
-      "Id": 95,
-      "RoomNames": ["103"],
+      "Id": 111,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 2,
       "Day_Id": 4,
       "Subject_Id": 35
     },
     {
-      "Id": 98,
-      "RoomNames": ["103"],
+      "Id": 115,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 3,
       "Day_Id": 4,
       "Subject_Id": 35
     },
     {
-      "Id": 101,
-      "RoomNames": ["103"],
+      "Id": 119,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 4,
       "Day_Id": 4,
       "Subject_Id": 35
     },
     {
-      "Id": 104,
-      "RoomNames": null,
+      "Id": 122,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 5,
       "Day_Id": 4,
       "Subject_Id": 12
     },
     {
-      "Id": 108,
-      "RoomNames": ["313"],
+      "Id": 128,
+      "RoomNames": [
+        "313"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 6,
       "Day_Id": 4,
       "Subject_Id": 36
     },
     {
-      "Id": 135,
-      "RoomNames": ["112"],
+      "Id": 155,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 5,
       "Day_Id": 5,
       "Subject_Id": 37
     },
     {
-      "Id": 139,
-      "RoomNames": ["314"],
+      "Id": 159,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 6,
       "Day_Id": 5,
       "Subject_Id": 38
     },
     {
-      "Id": 141,
-      "RoomNames": ["314"],
+      "Id": 161,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 7,
       "Day_Id": 5,
       "Subject_Id": 38
     },
     {
-      "Id": 142,
-      "RoomNames": null,
+      "Id": 162,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 2,
       "Day_Id": 6,
       "Subject_Id": 39
     },
     {
-      "Id": 145,
-      "RoomNames": null,
+      "Id": 167,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 3,
       "Day_Id": 6,
       "Subject_Id": 39
     },
     {
-      "Id": 153,
-      "RoomNames": null,
+      "Id": 177,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 5,
       "Day_Id": 6,
       "Subject_Id": 40
     },
     {
-      "Id": 157,
-      "RoomNames": ["145"],
+      "Id": 182,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 6,
       "Day_Id": 6,
       "Subject_Id": 38
     },
     {
-      "Id": 160,
-      "RoomNames": ["145"],
+      "Id": 185,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4],
+      "Subgroup_Id": [
+        4
+      ],
       "Order": 7,
       "Day_Id": 6,
       "Subject_Id": 38
     },
     {
-      "Id": 7,
-      "RoomNames": null,
+      "Id": 8,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 2,
       "Day_Id": 1,
       "Subject_Id": 32
     },
     {
-      "Id": 11,
-      "RoomNames": null,
+      "Id": 13,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 3,
       "Day_Id": 1,
       "Subject_Id": 32
     },
     {
-      "Id": 16,
-      "RoomNames": null,
+      "Id": 19,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 4,
       "Day_Id": 1,
       "Subject_Id": 3
     },
     {
-      "Id": 20,
-      "RoomNames": null,
+      "Id": 24,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 5,
       "Day_Id": 1,
       "Subject_Id": 33
     },
     {
-      "Id": 25,
-      "RoomNames": null,
+      "Id": 30,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 6,
       "Day_Id": 1,
       "Subject_Id": 33
     },
     {
-      "Id": 28,
-      "RoomNames": null,
+      "Id": 34,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 7,
-      "Day_Id": 1,
-      "Subject_Id": 34
-    },
-    {
-      "Id": 30,
-      "RoomNames": null,
-      "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
-      "Order": 8,
       "Day_Id": 1,
       "Subject_Id": 34
     },
     {
       "Id": 38,
-      "RoomNames": null,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
+      "Order": 8,
+      "Day_Id": 1,
+      "Subject_Id": 34
+    },
+    {
+      "Id": 47,
+      "RoomNames": [
+        "145"
+      ],
+      "Group_Id": 3,
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 4,
       "Day_Id": 2,
       "Subject_Id": 18
     },
     {
-      "Id": 43,
-      "RoomNames": ["145"],
+      "Id": 52,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 5,
       "Day_Id": 2,
       "Subject_Id": 41
     },
     {
-      "Id": 49,
-      "RoomNames": ["145"],
+      "Id": 59,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 6,
       "Day_Id": 2,
       "Subject_Id": 38
     },
     {
-      "Id": 54,
-      "RoomNames": ["145"],
+      "Id": 66,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 8,
       "Day_Id": 2,
       "Subject_Id": 42
     },
     {
-      "Id": 72,
-      "RoomNames": ["314"],
+      "Id": 86,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 3,
       "Day_Id": 3,
       "Subject_Id": 43
     },
     {
-      "Id": 77,
-      "RoomNames": ["314"],
+      "Id": 91,
+      "RoomNames": [
+        "314"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 4,
       "Day_Id": 3,
       "Subject_Id": 43
     },
     {
-      "Id": 82,
-      "RoomNames": null,
+      "Id": 97,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 5,
       "Day_Id": 3,
       "Subject_Id": 9
     },
     {
-      "Id": 87,
-      "RoomNames": null,
+      "Id": 103,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 6,
       "Day_Id": 3,
       "Subject_Id": 9
     },
     {
-      "Id": 104,
-      "RoomNames": null,
+      "Id": 123,
+      "RoomNames": [
+        "111"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 5,
       "Day_Id": 4,
       "Subject_Id": 12
     },
     {
-      "Id": 109,
-      "RoomNames": ["112"],
+      "Id": 129,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 6,
       "Day_Id": 4,
       "Subject_Id": 8
     },
     {
-      "Id": 114,
-      "RoomNames": ["112"],
+      "Id": 134,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 7,
       "Day_Id": 4,
       "Subject_Id": 8
     },
     {
-      "Id": 120,
-      "RoomNames": ["113"],
+      "Id": 140,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 1,
       "Day_Id": 5,
       "Subject_Id": 8
     },
     {
-      "Id": 123,
-      "RoomNames": ["113"],
+      "Id": 143,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 2,
       "Day_Id": 5,
       "Subject_Id": 8
     },
     {
-      "Id": 125,
-      "RoomNames": ["145"],
+      "Id": 145,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 3,
       "Day_Id": 5,
       "Subject_Id": 26
     },
     {
-      "Id": 130,
-      "RoomNames": ["312"],
+      "Id": 150,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 4,
       "Day_Id": 5,
       "Subject_Id": 44
     },
     {
-      "Id": 136,
-      "RoomNames": ["312"],
+      "Id": 156,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 5,
       "Day_Id": 5,
       "Subject_Id": 44
     },
     {
-      "Id": 142,
-      "RoomNames": null,
+      "Id": 163,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 2,
       "Day_Id": 6,
       "Subject_Id": 39
     },
     {
-      "Id": 145,
-      "RoomNames": null,
+      "Id": 168,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 3,
       "Day_Id": 6,
       "Subject_Id": 39
     },
     {
-      "Id": 150,
-      "RoomNames": ["145"],
+      "Id": 174,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 4,
       "Day_Id": 6,
       "Subject_Id": 36
     },
     {
-      "Id": 153,
-      "RoomNames": null,
+      "Id": 178,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 3,
-      "Subgroup_Id": [4, 5],
+      "Subgroup_Id": [
+        5
+      ],
       "Order": 5,
       "Day_Id": 6,
       "Subject_Id": 40
     },
     {
-      "Id": 17,
-      "RoomNames": ["230"],
+      "Id": 20,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 4,
       "Day_Id": 1,
       "Subject_Id": 45
     },
     {
-      "Id": 21,
-      "RoomNames": ["113"],
+      "Id": 25,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 5,
       "Day_Id": 1,
       "Subject_Id": 8
     },
     {
-      "Id": 26,
-      "RoomNames": ["113"],
+      "Id": 31,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 6,
       "Day_Id": 1,
       "Subject_Id": 8
     },
     {
-      "Id": 29,
-      "RoomNames": null,
+      "Id": 35,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6, 7],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 7,
       "Day_Id": 1,
       "Subject_Id": 12
     },
     {
-      "Id": 31,
-      "RoomNames": ["230"],
+      "Id": 39,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 1,
       "Day_Id": 2,
       "Subject_Id": 8
     },
     {
-      "Id": 33,
-      "RoomNames": ["230"],
+      "Id": 41,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 2,
       "Day_Id": 2,
       "Subject_Id": 8
     },
     {
-      "Id": 36,
-      "RoomNames": ["112"],
+      "Id": 44,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 3,
       "Day_Id": 2,
       "Subject_Id": 41
     },
     {
-      "Id": 39,
-      "RoomNames": ["112"],
+      "Id": 48,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 4,
       "Day_Id": 2,
       "Subject_Id": 41
     },
     {
-      "Id": 44,
-      "RoomNames": ["113"],
+      "Id": 53,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 5,
       "Day_Id": 2,
       "Subject_Id": 46
     },
     {
-      "Id": 63,
-      "RoomNames": ["145"],
+      "Id": 76,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 1,
       "Day_Id": 3,
       "Subject_Id": 47
     },
     {
-      "Id": 67,
-      "RoomNames": ["145"],
+      "Id": 80,
+      "RoomNames": [
+        "145"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 2,
       "Day_Id": 3,
       "Subject_Id": 47
     },
     {
-      "Id": 73,
-      "RoomNames": ["112"],
+      "Id": 87,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 3,
       "Day_Id": 3,
       "Subject_Id": 48
     },
     {
-      "Id": 83,
-      "RoomNames": ["112"],
+      "Id": 98,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 5,
       "Day_Id": 3,
       "Subject_Id": 26
     },
     {
-      "Id": 88,
-      "RoomNames": ["112"],
+      "Id": 104,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 6,
       "Day_Id": 3,
       "Subject_Id": 26
     },
     {
-      "Id": 105,
-      "RoomNames": null,
+      "Id": 124,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6, 7],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 5,
       "Day_Id": 4,
       "Subject_Id": 18
     },
     {
-      "Id": 110,
-      "RoomNames": ["103"],
+      "Id": 130,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 6,
       "Day_Id": 4,
       "Subject_Id": 49
     },
     {
-      "Id": 115,
-      "RoomNames": ["103"],
+      "Id": 135,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 7,
       "Day_Id": 4,
       "Subject_Id": 49
     },
     {
-      "Id": 117,
-      "RoomNames": ["106", "145"],
+      "Id": 137,
+      "RoomNames": [
+        "106",
+        "145"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 9,
       "Day_Id": 4,
       "Subject_Id": 40
     },
     {
-      "Id": 143,
-      "RoomNames": null,
+      "Id": 164,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6, 7],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 2,
       "Day_Id": 6,
       "Subject_Id": 3
     },
     {
-      "Id": 146,
-      "RoomNames": ["312"],
+      "Id": 169,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 3,
       "Day_Id": 6,
       "Subject_Id": 50
     },
     {
-      "Id": 154,
-      "RoomNames": ["112"],
+      "Id": 179,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6],
+      "Subgroup_Id": [
+        6
+      ],
       "Order": 5,
       "Day_Id": 6,
       "Subject_Id": 51
     },
     {
-      "Id": 12,
-      "RoomNames": ["112"],
+      "Id": 14,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 3,
       "Day_Id": 1,
       "Subject_Id": 52
     },
     {
-      "Id": 22,
-      "RoomNames": ["112"],
+      "Id": 26,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 5,
       "Day_Id": 1,
       "Subject_Id": 26
     },
     {
-      "Id": 27,
-      "RoomNames": ["112"],
+      "Id": 32,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 6,
       "Day_Id": 1,
       "Subject_Id": 26
     },
     {
-      "Id": 29,
-      "RoomNames": null,
+      "Id": 36,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6, 7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 7,
       "Day_Id": 1,
       "Subject_Id": 12
     },
     {
-      "Id": 32,
-      "RoomNames": ["112"],
+      "Id": 40,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 1,
       "Day_Id": 2,
       "Subject_Id": 41
     },
     {
-      "Id": 34,
-      "RoomNames": ["112"],
+      "Id": 42,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 2,
       "Day_Id": 2,
       "Subject_Id": 41
     },
     {
-      "Id": 40,
-      "RoomNames": ["230"],
+      "Id": 49,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 4,
       "Day_Id": 2,
       "Subject_Id": 46
     },
     {
-      "Id": 45,
-      "RoomNames": ["230"],
+      "Id": 54,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 5,
       "Day_Id": 2,
       "Subject_Id": 8
     },
     {
-      "Id": 50,
-      "RoomNames": ["230"],
+      "Id": 60,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 6,
       "Day_Id": 2,
       "Subject_Id": 8
     },
     {
-      "Id": 68,
-      "RoomNames": ["112"],
+      "Id": 81,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 2,
       "Day_Id": 3,
       "Subject_Id": 48
     },
     {
-      "Id": 74,
-      "RoomNames": ["113"],
+      "Id": 88,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 3,
       "Day_Id": 3,
       "Subject_Id": 41
     },
     {
-      "Id": 78,
-      "RoomNames": ["113"],
+      "Id": 92,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 4,
       "Day_Id": 3,
       "Subject_Id": 41
     },
     {
-      "Id": 102,
-      "RoomNames": ["113"],
+      "Id": 120,
+      "RoomNames": [
+        "113"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 4,
       "Day_Id": 4,
       "Subject_Id": 45
     },
     {
-      "Id": 105,
-      "RoomNames": null,
+      "Id": 125,
+      "RoomNames": [
+        "306"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6, 7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 5,
       "Day_Id": 4,
       "Subject_Id": 18
     },
     {
-      "Id": 111,
-      "RoomNames": null,
+      "Id": 131,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 6,
       "Day_Id": 4,
       "Subject_Id": 49
     },
     {
-      "Id": 116,
-      "RoomNames": null,
+      "Id": 136,
+      "RoomNames": [
+        "103"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 7,
       "Day_Id": 4,
       "Subject_Id": 49
     },
     {
-      "Id": 118,
-      "RoomNames": ["111", "112"],
+      "Id": 138,
+      "RoomNames": [
+        "111",
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 9,
       "Day_Id": 4,
       "Subject_Id": 40
     },
     {
-      "Id": 126,
-      "RoomNames": ["230"],
+      "Id": 146,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 3,
       "Day_Id": 5,
       "Subject_Id": 8
     },
     {
-      "Id": 131,
-      "RoomNames": ["230"],
+      "Id": 151,
+      "RoomNames": [
+        "230"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 4,
       "Day_Id": 5,
       "Subject_Id": 8
     },
     {
-      "Id": 143,
-      "RoomNames": null,
+      "Id": 165,
+      "RoomNames": [
+        "312"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [6, 7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 2,
       "Day_Id": 6,
       "Subject_Id": 3
     },
     {
-      "Id": 147,
-      "RoomNames": ["112"],
+      "Id": 170,
+      "RoomNames": [
+        "112"
+      ],
       "Group_Id": 4,
-      "Subgroup_Id": [7],
+      "Subgroup_Id": [
+        7
+      ],
       "Order": 3,
       "Day_Id": 6,
       "Subject_Id": 53
@@ -1959,25 +2728,25 @@
     }
   ],
   "WeekDayNumbers": {
-    "1": "понеділок",
-    "2": "вівторок",
-    "3": "середа",
-    "4": "четвер",
-    "5": "п'ятниця",
-    "6": "субота"
+    "понеділок": 1,
+    "вівторок": 2,
+    "середа": 3,
+    "четвер": 4,
+    "п'ятниця": 5,
+    "субота": 6
   },
   "LessonOrder": {
-    "1": "8.30 - 9.10",
-    "2": "9.15 - 9.55",
-    "3": "10.05 - 10.45",
-    "4": "10.50 - 11.30",
-    "5": "11.35 - 12.15",
-    "6": "12.25 - 13.05",
-    "7": "13.40 - 14.20",
-    "8": "14.25 - 15.05",
-    "9": "15.15 - 15.55",
-    "10": "16.00 - 16.40",
-    "11": "16.50 - 17.35",
-    "12": "17.35 - 18.15"
+    "8.30 - 9.10": 1,
+    "9.15 - 9.55": 2,
+    "10.05 - 10.45": 3,
+    "10.50 - 11.30": 4,
+    "11.35 - 12.15": 5,
+    "12.25 - 13.05": 6,
+    "13.40 - 14.20": 7,
+    "14.25 - 15.05": 8,
+    "15.15 - 15.55": 9,
+    "16.00 - 16.40": 10,
+    "16.50 - 17.35": 11,
+    "17.35 - 18.15": 12
   }
 }
